@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">greenbox3</string>
+    <string name="logo">logo</string>
+    <string name="greenbox">greenbox</string>
+    <string name="email">email</string>
+    <string name="пароль">пароль</string>
+    <string name="decor">decor</string>
+    <string name="продолжить.....">продолжить.....</string>
+    <string name="уже_есть_аккаунт">уже_есть_аккаунт</string>
+    <string name="войти">войти</string>
+    <string name="следующий">следующий</string>
+    <string name="создать">создать</string>
+    <string name="perizat_kadyrova">perizat_kadyrova</string>
+    <string name="kadyrova_pauca.kg">kadyrova_pauca.kg</string>
+    <string name="добавитьдругойаккаунт">добавитьдругойаккаунт</string>
+    <string name="меню">меню</string>
+    <string name="блюдо">блюдо</string>
+    <string name="корзина">корзина</string>
+    <string name="сэндвичи">сэндвичи</string>
+    <string name="салаты">салаты</string>
+    <string name="п">п</string>
+    <string name="к">к</string>
+    <string name="др">др</string>
+    <string name="профиль">профиль</string>
+    <string name="перизат">Перизат</string>
+    <string name="с">0с</string>
+    <string name="кошелек">кошелек</string>
+    <string name="заказы">заказы</string>
+    <string name="избранные">избранные</string>
+    <string name="шт">0шт</string>
+    <string name="нет">нет</string>
+    <string name="glavnoemenu">glavnoemenu</string>
+    <string name="сэндвичстунцом">сэндвич с тунцом</string>
+    <string name="тунцыкапустахлеб">тунцы, капуста, хлеб</string>
+    <string name="сом">85 сом</string>
+    <string name="сэндвичскурицей">сэндвич с курицей</string>
+    <string name="отварнаякуринаягрудка">отварная куриная грудка</string>
+    <string name="Сэндвичсоскрэмблом">Сэндвич со скрэмблом</string>
+    <string name="горчичныйсоус">горчичный соус</string>
+    <string name="корзинапуста">корзина пуста</string>
+    <string name="пиццанаовсяноблине">Пицца на овсяноблине </string>
+    <string name="перецболгарскийкуринаягрудкашампиньоныоливки">Перец болгарский, куриная грудка, шампиньоны,  оливки</string>
+    <string name="пиццаналаваше">Пицца на лаваше </string>
+    <string name="кальмарыжаренныевмаслеенеедвухминутдлясохранениямягкости">кальмары, жаренные в масле менее двух минут
+для сохранения мягкости</string>
+    <string name="пппицца">ПП- пицца </string>
+    <string name="грудкаотварнаяпомидорсыроливки">Грудка отварная, помидор, сыр, оливки</string>
+    <string name="пиццы">пиццы</string>
+    <string name="греческийсалат">греческий салат</string>
+    <string name="Цезарь">Цезарь</string>
+    <string name="помидорыогурцыперецлистьясалатаоливкисыр">помидоры, огурцы, перец ,листья салата, оливки, сыр</string>
+    <string name="зеленыйсалатпомидорыкуриноефилебелыйхлебсыр">Зеленый салат, Помидоры, Куриное филе, Белый хлеб, сыр</string>
+    <string name="конвертики">Конвертики</string>
+    <string name="конвертикиссыромитворогом">конвертики с сыром и творогом </string>
+    <string name="конвертикисшпинатом">конвертики с шпинатом </string>
+    <string name="другое">Другое </string>
+    <string name="ппшаурма">ПП- шаурма</string>
+    <string name="пирожки">Пирожки</string>
+
+
+
+
+
+
+
+    
+
+
+
+
+</resources>
